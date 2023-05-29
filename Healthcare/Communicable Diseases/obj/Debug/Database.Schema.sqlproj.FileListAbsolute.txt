@@ -1,0 +1,10 @@
+C:\prjs\Datovy\Healthcare\Communicable Diseases\bin\Debug\Database.Schema.dacpac
+C:\prjs\Datovy\Healthcare\Communicable Diseases\obj\Debug\Database.Schema.sqlproj.AssemblyReference.cache
+C:\prjs\Datovy\Healthcare\Communicable Diseases\obj\Debug\ContactTracing.dll
+C:\prjs\Datovy\Healthcare\Communicable Diseases\obj\Debug\ContactTracing.pdb
+C:\prjs\Datovy\Healthcare\Communicable Diseases\bin\Debug\ContactTracing.dll
+C:\prjs\Datovy\Healthcare\Communicable Diseases\bin\Debug\ContactTracing.pdb
+C:\prjs\Datovy\Healthcare\Communicable Diseases\obj\Debug\Model.xml
+C:\prjs\Datovy\Healthcare\Communicable Diseases\obj\Debug\refactor.xml
+C:\prjs\Datovy\Healthcare\Communicable Diseases\obj\Debug\postdeploy.sql
+C:\prjs\Datovy\Healthcare\Communicable Diseases\obj\Debug\predeploy.sql

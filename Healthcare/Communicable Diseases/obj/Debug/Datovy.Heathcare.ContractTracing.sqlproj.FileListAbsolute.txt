@@ -1,0 +1,6 @@
+C:\prjs\Healthcare\Datovy.Heathcare\Datovy.Heathcare.ContractTracing\bin\Debug\Datovy.Heathcare.ContractTracing.dacpac
+C:\prjs\Healthcare\Datovy.Heathcare\Datovy.Heathcare.ContractTracing\bin\Debug\Datovy.Heathcare.ContractTracing.dll
+C:\prjs\Healthcare\Datovy.Heathcare\Datovy.Heathcare.ContractTracing\bin\Debug\Datovy.Heathcare.ContractTracing.pdb
+C:\prjs\Healthcare\Datovy.Heathcare\Datovy.Heathcare.ContractTracing\obj\Debug\Datovy.Heathcare.ContractTracing.sqlproj.AssemblyReference.cache
+C:\prjs\Healthcare\Datovy.Heathcare\Datovy.Heathcare.ContractTracing\obj\Debug\Datovy.Heathcare.ContractTracing.dll
+C:\prjs\Healthcare\Datovy.Heathcare\Datovy.Heathcare.ContractTracing\obj\Debug\Datovy.Heathcare.ContractTracing.pdb

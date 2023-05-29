@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="ac04e81c-c46e-4cd4-b34d-f37b32db7e65" ChangeDateTime="10/17/2022 21:33:22">
+    <Property Name="ElementName" Value="[Surveillance].[Assessment_Answer].[Effective_DateTime]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[Surveillance].[Assessment_Answer]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Effective_DateTime" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="665b05d1-73c9-4292-9dd9-603591342b0d" ChangeDateTime="10/17/2022 21:33:27">
+    <Property Name="ElementName" Value="[Surveillance].[Assessment_Answer].[Effective_End_DateTime]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[Surveillance].[Assessment_Answer]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Effective_End_DateTime" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="8c6859cc-5317-42a7-b05f-8a1958f64d8e" ChangeDateTime="10/17/2022 21:35:56">
+    <Property Name="ElementName" Value="[Surveillance].[Assessment_Question].[Effective_DateTime]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[Surveillance].[Assessment_Question]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Effective_DateTime" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="abc87f84-dfd7-4cfa-9e4a-6c604194df96" ChangeDateTime="10/17/2022 21:35:58">
+    <Property Name="ElementName" Value="[Surveillance].[Assessment_Question].[Effective_End_DateTime]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[Surveillance].[Assessment_Question]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Effective_End_DateTime" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="febee88b-3be5-4e34-92b9-638ae87dff12" ChangeDateTime="10/17/2022 21:36:03">
+    <Property Name="ElementName" Value="[Surveillance].[Assessment_Questionnaire].[Effective_End_DateTime]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[Surveillance].[Assessment_Questionnaire]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Effective_End_DateTime" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="17294624-e7ed-43c4-a0be-c751becbc995" ChangeDateTime="10/17/2022 21:36:09">
+    <Property Name="ElementName" Value="[Surveillance].[Assessment_Questionnaire].[Effective_DateTime]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[Surveillance].[Assessment_Questionnaire]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Effective_DateTime" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="ece3d268-c5fd-4067-8d41-09647bd2b527" ChangeDateTime="10/18/2022 15:37:43">
+    <Property Name="ElementName" Value="[Generic].[Element_Group].[Type_ID]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[Generic].[Element_Group]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Group_ID" />
+  </Operation>
+</Operations>
