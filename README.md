@@ -1,5 +1,7 @@
 # DiseaseSurveillance
 CDC Communicable Disease Surveillance
+# DiseaseSurveillance
+CDC Communicable Disease Surveillance
 ## Datovy Healthcare
 # Communicable Diseases Data Repository
 
@@ -105,6 +107,13 @@ Enough metadata details about record management are provided as a starting point
 
 ## <span style="color:skyblue;font-weight:bold">DICTIONARIES - SCHEMAS</span>
 Associated with this contribution Datovy released a separate project that was used to prepare a full sample of a Data Dictionary, Schemas in various languages including XSD and JSON Schema among other resources.  The EDAM (Enterprise Data Asset Management) Windows (WinUI) desktop App was used to produce these artifacts and can be found as Datovy.Edam.
+
+## <span style="color:skyblue;font-weight:bold">SUPPORTED EDIs</span>
+EDI 834 Benefits and Enrollment 
+[1] EDI 834 -
+    Benefits Enrollment and Maintenance(834) -
+    https://github.com/esobrino/Datovy.Edam
+
 
 ## <span style="color:skyblue;font-weight:bold">ROAD MAP</span>
 The following is a tentative plan that will be modified based on the community feedback:
