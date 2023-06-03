@@ -1,7 +1,5 @@
 # DiseaseSurveillance
 CDC Communicable Disease Surveillance
-# DiseaseSurveillance
-CDC Communicable Disease Surveillance
 ## Datovy Healthcare
 # Communicable Diseases Data Repository
 
